@@ -3,19 +3,14 @@
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=vsk" alt="vsk typing"/></a>
 </p>
 
-<!-- Ảnh GIF căn trái -->
-<p align="left">
-  <img src="https://i.pinimg.com/originals/15/85/e9/1585e90ebc9316e9652cab2d9a22b7f5.gif" width="300" alt="vsk banner">
-</p>
-
-<!-- Icon Discord + link zyo -->
+<!-- Social icons: Discord + Zyo Logo -->
 <p align="center">
   <a href="https://discord.com/users/vsk" target="_blank">
     <img width="40px" src="https://i.imgur.com/OViZO8J.png" alt="Discord" title="Discord: vsk"/>
   </a>
   &#8287;
   <a href="https://zyo.lol/vsk" target="_blank">
-    <img width="40px" src="https://zyo.lol/favicon.ico" alt="zyo.lol/vsk" title="zyo.lol/vsk"/>
+    <img width="40px" src="https://i.pinimg.com/736x/2f/f8/38/2ff83867c3b575c18cac01102fa65815.jpg" alt="Zyo" title="Zyo"/>
   </a>
 </p>
 
@@ -41,7 +36,7 @@
   </a>
 </p>
 
-<!-- Pacman graph -->
+<!-- Pacman contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg">
