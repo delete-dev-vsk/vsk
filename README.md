@@ -36,7 +36,6 @@
   </a>
 </p>
 
-<!-- Pacman contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg">
@@ -45,5 +44,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <i>Made with ❤️ by vsk</i>
+  <i>Made with by vsk</i>
 </p>
