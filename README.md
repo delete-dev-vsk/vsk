@@ -36,12 +36,6 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg">
-  <img alt="pacman graph" src="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
 <!-- Footer -->
 <p align="center">
   <i>Made with by vsk</i>
