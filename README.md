@@ -63,19 +63,6 @@ delete_user_123 🇻🇳[vsk](https://zyo.lol/vsk)
 </p>
 
 
-<!-- More Information Details Myself -->
-<details>
-<summary> More about me, backend dev 🔥
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=vsk.visitor-badge">
-</summary> 
-
-<p align="center">
-
-</a>
-
-![Header](img/header_.png)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg">
@@ -91,14 +78,7 @@ delete_user_123 🇻🇳[vsk](https://zyo.lol/vsk)
   <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
   <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4" alt="" />
   <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
-  <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8" alt="" />
-  <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
-  <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000" alt="" />
-  <img src="https://img.shields.io/badge/Ruby-snow?logo=ruby&logoColor=CC342D" alt="" />
-  <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
   <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6" alt="" />
-  <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
-</p>
 
 <h3>🔥 Streak Stats</h3>
 
