@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://twitter.com/vsk"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/f36h7uX7N" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/vsk"><img width="32px" alt="Dev.to" title="vsk Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -29,7 +29,7 @@
   <div align="left">
 
 I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[vsk](https://zyo.lol/vsk)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
