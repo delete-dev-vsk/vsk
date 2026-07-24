@@ -15,8 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@vsk"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/vsk"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+  
 
 
 <!-- Information myself -->
