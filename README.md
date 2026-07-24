@@ -1,18 +1,54 @@
+<!-- Title với hiệu ứng gõ chữ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=vsk">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=vsk" alt="vsk typing"/></a>
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/vsk"><img src="https://i.imgur.com/OViZO8J.png" width="40"></a>
-  <a href="https://zyo.lol/vsk"><img src="https://zyo.lol/favicon.ico" width="40"></a>
+<!-- Ảnh GIF căn trái -->
+<p align="left">
+  <img src="https://i.pinimg.com/originals/15/85/e9/1585e90ebc9316e9652cab2d9a22b7f5.gif" width="300" alt="vsk banner">
 </p>
 
+<!-- Icon Discord + link zyo -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <a href="https://discord.com/users/vsk" target="_blank">
+    <img width="40px" src="https://i.imgur.com/OViZO8J.png" alt="Discord" title="Discord: vsk"/>
+  </a>
+  &#8287;
+  <a href="https://zyo.lol/vsk" target="_blank">
+    <img width="40px" src="https://zyo.lol/favicon.ico" alt="zyo.lol/vsk" title="zyo.lol/vsk"/>
+  </a>
 </p>
 
+<!-- Thông tin cơ bản -->
+<h2 align="center">👋 Discord: vsk</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+<br>
+
+<!-- Link chính -->
 <p align="center">
-  <a href="https://zyo.lol/delete_user_123">🔗 zyo.lol/delete_user_123</a> &nbsp;|&nbsp; <a href="https://zyo.lol/vsk">🇻🇳 vsk</a>
+  <a href="https://zyo.lol/delete_user_123" target="_blank">
+    <img src="https://img.shields.io/badge/zyo.lol/delete_user_123-FF007F?style=for-the-badge&logo=link&logoColor=white" alt="delete_user_123"/>
+  </a>
+  &nbsp;
+  <a href="https://zyo.lol/vsk" target="_blank">
+    <img src="https://img.shields.io/badge/🇻🇳%20vsk-zyo.lol/vsk-00BFFF?style=for-the-badge" alt="vsk"/>
+  </a>
+</p>
+
+<!-- Pacman graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg">
+  <img alt="pacman graph" src="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<!-- Footer -->
+<p align="center">
+  <i>Made with ❤️ by vsk</i>
 </p>
