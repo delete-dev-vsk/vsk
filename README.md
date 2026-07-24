@@ -28,8 +28,7 @@
 
   <div align="left">
 
-I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[vsk](https://zyo.lol/vsk)
+delete_user_123 🇻🇳[vsk](https://zyo.lol/vsk)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
@@ -76,9 +75,6 @@ and actively contributing to open-source projects for the community. In addition
 
 ![Header](img/header_.png)
 
-![TIEN2K3](gitartwork.svg)
-
-![Grid-Snake](https://raw.githubusercontent.com/vsk/vsk/main/dist/grid-snake.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsk/vsk/output/pacman-contribution-graph-dark.svg">
